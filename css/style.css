@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+}
+
+main, #logo {
+    margin-left: 5px;
+}
+
+header {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(107, 157, 255);
+    background-size: 500px;
+}
+
+#logo {
+    width: 250px;
+    margin-top: 45px;
+}
+
+main h1 {
+    font-size: 50px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+
+#autore, #data {
+    color: rgb(122, 122, 122);
+}
+
+#autore a {
+    text-decoration: none;
+}
+
+#autore {
+    font-size: 20px;
+}
+
+#data {
+    font-size: 14px;
+}
+
+#immagini-intestazione {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
