@@ -3,9 +3,8 @@
 }
 
 main, #logo, footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 header {
