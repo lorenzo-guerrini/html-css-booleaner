@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+}
+
+main, #logo, footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+header {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(107, 157, 255);
+    background-size: 500px;
+}
+
+#logo {
+    width: 250px;
+    margin-top: 45px;
+}
+
+main h1 {
+    font-size: 50px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+
+#autore, #data, h3 {
+    color: rgb(122, 122, 122);
+}
+
+#autore a {
+    text-decoration: none;
+}
+
+#autore {
+    font-size: 20px;
+}
+
+#data {
+    font-size: 14px;
+}
+
+#immagini-intestazione {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+
+section p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section ul {
+    padding: 20px;
+}
+
+thead {
+    background-color: rgb(94, 165, 224);
+    color: white;
+}
+
+.blue-row {
+    background-color: rgb(190, 226, 241);
+}
+
+table {
+    width: 99%;
+    border-collapse: collapse;
+}
+
+.table-last-column {
+    width: 50%;
+}
+
+#articolo1, #articolo2 {
+    width: 300px;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+}
+
+#articolo1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+#articolo2 {
+    background-image: url(../img/graph.jpg);
+}
